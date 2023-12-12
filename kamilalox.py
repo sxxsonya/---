@@ -6,3 +6,7 @@ print(3+5)
 print(3/5)
 #odecitani
 print(3-5)
+#mocneni
+print(3**5)
+#odmocneni
+print(3**(1/5))
